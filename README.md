@@ -51,18 +51,18 @@ The results below summarize the model performance for each architecture in terms
 - **Discriminator Loss:** Stabilized around 0.5
 - **Generator Loss:** Improved over training epochs
 - **Generated Samples:** 
-![Result1N1](figures\Result1_N1.png)
-![Result1N2](figures\Result1_N2.png)
-![Result1N3](figures\Result1_N3.png)
+![Result1N1](figures/Result1_N1.png)
+![Result1N2](figures/Result1_N2.png)
+![Result1N3](figures/Result1_N3.png)
 
 ### Architecture 2 Results
 - **Epochs Trained:** 100
 - **Discriminator Loss:** Optimized around 0.5 in the final iterations
 - **Generator Loss:** Reduced to approximately 3
 - **Generated Samples:** 
-![Result2N1](figures\Result2_N1.png)
-![Result2N2](figures\Result2_N2.png)
-![Result2N3](figures\Result2_N3.png)
+![Result2N1](figures/Result2_N1.png)
+![Result2N2](figures/Result2_N2.png)
+![Result2N3](figures/Result2_N3.png)
 
 
 ### Architecture 3 Results
@@ -70,9 +70,9 @@ The results below summarize the model performance for each architecture in terms
 - **Discriminator Loss:** Optimized in later epochs
 - **Generator Loss:** Reached approximately 12
 - **Generated Samples:** 
-![Result3N1](figures\Result3_N1.png)
-![Result3N2](figures\Result3_N2.png)
-![Result3N3](figures\Result3_N3.png)
+![Result3N1](figures/Result3_N1.png)
+![Result3N2](figures/Result3_N2.png)
+![Result3N3](figures/Result3_N3.png)
 
 ### Evaluation Scores
 | Architecture   | FID   | IS   |
